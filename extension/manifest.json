@@ -1,0 +1,21 @@
+{
+  "manifest_version": 3,
+  "name": "BOM Secure Redirect",
+  "version": "1.0.0",
+  "description": "The BOM redirecting to HTTPS",
+  "icons": {"48": "icon.svg", "96": "icon.svg"},
+  "permissions": ["declarativeNetRequestWithHostAccess"],
+  "host_permissions": ["*://www.bom.gov.au/*", "*://bom.gov.au/*"],
+  "browser_specific_settings": {"gecko": {"id": "bom-secure-redrect@bgh.io"}},
+  "declarative_net_request":
+  {
+    "rule_resources":
+    [
+      {
+        "id": "rules",
+        "enabled": true,
+        "path": "rules.json"
+      }
+    ]
+  }
+}

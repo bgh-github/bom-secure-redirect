@@ -10,12 +10,12 @@ A Firefox browser extension to redirect the Bureau of Meteorology (BOM) website 
 
 If you've ever visited the BOM website, chances are you were greeted by an 'Insecure' warning and message like below about HTTPS connections not being supported. For legacy or other reasons, the BOM sticks out as one of a few major web properties still only offering plain old HTTP :(
 
-<img src="/img/https-not-supported.png" height="600">
+<img src="/img/https-not-supported.png" height="500">
 
-Lesser known is the BOM seem to make a HTTPS enabled mirror of the site available at https://reg.bom.gov.au. Enter, this extension.
+Lesser known is the BOM seem to make a HTTPS enabled mirror of the site available at https://reg.bom.gov.au. Enter this extension.
 
 ## Other
 
 The extension is built to the latest Manifest V3 specification, taking advantage of the rule-based [declarativeNetRequest](https://developer.mozilla.org/docs/Mozilla/Add-ons/WebExtensions/API/declarativeNetRequest#comparison_with_the_webrequest_api) API
 
-Extension icon adapted from the [BOM Weather] (http://www.bom.gov.au/app/) app logo. <-- Use this same link for testing the extension is redirecting correctly!
+Extension icon adapted from the [BOM Weather](http://www.bom.gov.au/app/) app logo. <-- Use this same link for testing the extension is redirecting correctly!

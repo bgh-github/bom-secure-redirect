@@ -1,3 +1,3 @@
 #!/bin/bash
 
-zip --recurse-paths --junk-paths /tmp/bom-secure-redrect.zip "${HOME}/Git/GitHub/bom-secure-redrect/extension"
+zip --recurse-paths --junk-paths /tmp/bom-secure-redirect.zip "${HOME}/Git/GitHub/bom-secure-redirect/extension"

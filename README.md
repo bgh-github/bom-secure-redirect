@@ -11,7 +11,7 @@ A Firefox browser extension to redirect the Bureau of Meteorology (BOM) website 
 
 ## Why?
 
-If you've ever visited the BOM website, chances are you were greeted by an 'Insecure' warning and message like below about HTTPS connections not being supported. For legacy or other reasons, the BOM sticks out as one of a few major web properties still only offering plain old HTTP :(
+If you've ever visited the BOM website, chances are you were greeted by an 'Insecure' warning and/or message as below about HTTPS connections not being supported. For legacy or other reasons, the BOM sticks out as one of a few major web properties still only offering plain old HTTP :(
 
 <img src="/img/https-not-supported.png" height="500">
 

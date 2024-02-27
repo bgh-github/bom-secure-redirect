@@ -1,4 +1,8 @@
 releases:
+  - version: "1.0.1"
+    date: 2024-02-27
+    notes:
+      - Update manifest description
   - version: "1.0.0"
     date: 2024-02-17
     notes:

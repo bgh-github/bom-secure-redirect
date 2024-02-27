@@ -9,7 +9,7 @@ A Firefox browser extension to redirect the Bureau of Meteorology (BOM) website 
 > [!IMPORTANT]
 > Permissions required (on www.bom.gov.au and bom.gov.au) for the extension to redirect cannot [currently](https://bugzilla.mozilla.org/show_bug.cgi?id=1839129) be granted during install. To opt-in once installed, click the Extensions toolbar icon > Manage extensions > BOM Secure Redirect > Permissions, and toggle both entries on
 
-## Why?
+## Background
 
 If you've ever visited the BOM website, chances are you were greeted by an 'Insecure' warning and/or message as below about HTTPS connections not being supported. For legacy or other reasons, the BOM sticks out as one of a few major web properties still only offering plain old HTTP :(
 

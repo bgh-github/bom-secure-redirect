@@ -23,4 +23,4 @@ The extension is built to the latest Manifest V3 specification, taking advantage
 
 Latest Firefox releases should prompt for required permissions (to www<span/>.bom.gov.au and bom.gov.au) on extension install. To check permissions have been granted, click the Extensions toolbar icon > Manage extensions > BOM Secure Redirect > Permissions tab, and ensure both entries are toggled on
 
-Extension icon adapted from the [BOM Weather](http://www.bom.gov.au/app/) app logo. <-- Use this same link for testing the extension is redirecting correctly
+Extension icon adapted from the [BOM Weather](https://beta.bom.gov.au/apps) app logo

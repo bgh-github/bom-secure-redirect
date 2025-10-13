@@ -17,6 +17,8 @@ Lesser known is the BOM seem to have long made a HTTPS enabled mirror of the sit
 > [!NOTE]
 > In June 2024, the new beta.bom.gov.au test site was also [announced](https://web.archive.org/https://media.bom.gov.au/releases/1229/bureau-of-meteorologys-new-test-website-now-available-to-the-community) offering enhanced security (Yes, including HTTPS!). The BOM plan for it to eventually supersede the existing site, which should remove the need for this extension
 
+<img src="/img/beta-webad_beta-webad12.png" height="300">
+
 ## Other
 
 The extension is built to the latest Manifest V3 specification, leveraging the rule-based [declarativeNetRequest](https://developer.mozilla.org/docs/Mozilla/Add-ons/WebExtensions/API/declarativeNetRequest#comparison_with_the_webrequest_api) API

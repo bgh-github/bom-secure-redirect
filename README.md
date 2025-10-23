@@ -16,8 +16,7 @@ Lesser known is the BOM seemed to long make a HTTPS enabled mirror of the site a
 
 In June 2024, the beta.bom.gov.au test site was [announced](https://web.archive.org/https://media.bom.gov.au/releases/1229/bureau-of-meteorologys-new-test-website-now-available-to-the-community) and subsequently [made live](https://www.bom.gov.au/news-and-media/the-bureau-of-meteorologys-new-website-is-now-live) in October 2025. The new site including full HTTPS support!
 
-<img src="img/beta-webad_beta-webad12.png" height="250">
-<img src="img/web-webtile_pre-launch02.png" height="250">
+<img src="img/beta-webad_beta-webad12.png" height="250"> <img src="img/web-webtile_pre-launch02.png" height="250">
 
 With the launch of the new BOM website, this extension now serves limited purpose in redirecting the remaining https://bom.gov.au domain URL without a functional server-side redirect. As well as providing an option to redirect from the new homepage, to the legacy site still running at https://reg.bom.gov.au for those who prefer the old format.
 

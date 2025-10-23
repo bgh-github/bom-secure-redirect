@@ -1,0 +1,7 @@
+[
+  {
+    "id": 1,
+    "condition": {"urlFilter": "|https://www.bom.gov.au^|", "resourceTypes": ["main_frame"]},
+    "action": {"type": "redirect", "redirect": {"transform": {"host": "reg.bom.gov.au", "scheme": "https"}}}
+  }
+]

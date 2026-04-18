@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "BOM Secure Redirect",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "description": "The BOM (Bureau of Meteorology) homepage redirect to legacy reg.bom.gov.au site",
   "icons": {"32": "icon.svg", "64": "icon.svg"},
   "background": {"scripts": ["background.js"]},

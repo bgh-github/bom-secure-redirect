@@ -1,4 +1,8 @@
 releases:
+  - version: "1.3.0"
+    date: 2026-04-18
+    notes:
+      - Relegate extension to legacy homepage redirect function, removing other now unnecessary HTTPS redirects
   - version: "1.2.0"
     date: 2025-10-23
     notes:
@@ -7,7 +11,7 @@ releases:
   - version: "1.1.0"
     date: 2025-10-12
     notes:
-      - Adapt to www.bom.gov.au now being available via HTTPS, and BOM website performing server-side redirection from http://bom.gov.au to http://www.bom.gov.au
+      - Adapt to www.bom.gov.au HTTPS availability and changed http://bom.gov.au to http://www.bom.gov.au server-side redirect
   - version: "1.0.1"
     date: 2024-02-27
     notes:

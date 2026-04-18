@@ -2,7 +2,7 @@
 
 <img src="extension/icon.svg" width="100%" height="130">
 
-A Firefox browser extension for redirecting Bureau of Meteorology (BOM) to HTTPS enabled site and optionally legacy homepage.
+A Firefox browser extension redirecting the Bureau of Meteorology (BOM) homepage to the legacy site at https://reg.bom.gov.au.
 
 [<img src="img/get-the-addon-fx-apr-2020.svg" height="50">](https://addons.mozilla.org/firefox/addon/bom-secure-redirect/)
 
@@ -14,13 +14,13 @@ If ever visiting the BOM website in the past, chances are you were greeted by an
 
 Lesser known is the BOM seemed to long make a HTTPS enabled mirror of the site available at https://reg.bom.gov.au. Enter this extension.
 
-In June 2024, the beta.bom.gov.au test site was [announced](https://web.archive.org/https://media.bom.gov.au/releases/1229/bureau-of-meteorologys-new-test-website-now-available-to-the-community) and subsequently [made live](https://www.bom.gov.au/news-and-media/the-bureau-of-meteorologys-new-website-is-now-live) in October 2025. The new site including full HTTPS support!
+In June 2024, the beta.bom.gov.au test site was [announced](https://web.archive.org/web/20240720121351/https://media.bom.gov.au/releases/1229/bureau-of-meteorologys-new-test-website-now-available-to-the-community/) and subsequently [made live](https://www.bom.gov.au/news-and-media/the-bureau-of-meteorologys-new-website-is-now-live) October 2025. The new site including full HTTPS support!
 
 <img src="img/beta-webad_beta-webad12.png" height="250"> <img src="img/web-webtile_pre-launch02.png" height="250">
 
-With the launch of the new BOM website, this extension now serves limited purpose in redirecting the remaining https://bom.gov.au domain URL without a functional server-side redirect. As well as providing an option to redirect from the new homepage, to the legacy site still running at https://reg.bom.gov.au for those who prefer the old format.
+With the full launch of the new BOM website and changes in its redirect behaviour, this extension now serves limited purpose. Its last remaining function simply provides an option to redirect from the new homepage to the legacy site still running at https://reg.bom.gov.au for those who prefer the old format.
 
-This legacy redirection option can be found under extension Preferences.
+This legacy redirection option can be toggled under extension Preferences.
 
 ## Other
 

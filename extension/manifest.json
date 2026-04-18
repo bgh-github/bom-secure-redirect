@@ -3,7 +3,7 @@
   "name": "BOM Secure Redirect",
   "version": "1.2.0",
   "description": "The BOM (Bureau of Meteorology), redirecting to HTTPS",
-  "icons": {"48": "icon.svg", "96": "icon.svg"},
+  "icons": {"32": "icon.svg", "64": "icon.svg"},
   "background": {"scripts": ["background.js"]},
   "permissions": ["declarativeNetRequestWithHostAccess", "storage"],
   "host_permissions": ["*://www.bom.gov.au/*", "*://bom.gov.au/*"],
